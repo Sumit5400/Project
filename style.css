@@ -1,0 +1,62 @@
+.logo
+{
+    width: 120px;
+}
+.ser
+{
+    position: relative;
+}
+.ser .bi-search
+{
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    font-size: 22px;
+    
+}
+.letter
+{
+   font-size: 8px; 
+}
+.logo1
+{
+    width: 20px;
+    height: 30px;
+}
+div small
+{
+    color: white;
+    line-height: 15.5px;
+}
+@media(min-width: 1220px)
+{
+    .container 
+    {
+        max-width: 1240px;
+    }
+}
+.navbar-expand-lg .navbar-nav
+{
+    gap: 5px;
+}
+.mt-4
+{
+    gap: 40px;
+}
+.t
+{
+    font-size: 15px;
+    text-decoration: none;
+    color: brown;
+
+}
+.t:hover
+{
+    text-decoration: underline;
+    color: rgb(194, 44, 44);
+}
+.qty
+{
+    width: 100px;
+    
+}
